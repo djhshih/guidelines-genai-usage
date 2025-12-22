@@ -26,7 +26,7 @@ The definitions of scientific misconducts remain unchanged in the era of GenAI. 
 
 ## Good applications
 
-Think of large language models (LLMs) as a professional writers who have read everything available scraped from the web.
+Think of large language models (LLMs) as a professional writers who have read everything scraped from the web.
 We don't ask professional writers to do arithmetics, solve equations, analyze logic, because that's 
 not what they were born to do.
 
