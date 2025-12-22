@@ -75,7 +75,7 @@ GenAI for applications that require these skills.
 
 ## Non-applications
 
-| Non-Applications | Potential misconducts | Alternatives |
+| Non-applications | Potential misconducts | Alternatives |
 |------------------|----------------------|-------------|
 | summarizing scientific papers | fact fabrication | just read the abstract |
 | gathering data | data fabrication | use search engines |
