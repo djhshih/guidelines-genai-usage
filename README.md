@@ -6,7 +6,7 @@ without little effort from the users.
 The quality of work produced by GenAI can sometimes be impressive, especially in the context of writing text that need not be grounded in facts
 or generating images that need not be accurate. 
 However, it is important that remember that AI-generated work often contains fabricated facts and data, because GenAI are trained to 
-generate text or images that are plausible but not necessiarily accurate.
+generate text or images that are *plausible* but not necessiarily accurate.
 Therefore, the use of GenAI in scientific work must be done with forethought and care.
 
 At best, creating AI slop reflects poorly on your professionalism and quality of work; at worst, it causes you to commit misconduct.
@@ -19,6 +19,8 @@ The definitions of scientific misconducts remain unchanged in the era of GenAI. 
 - **Copyright violation**: using other's people work without proper *authorization*
 
 ### Examples
+
+GenAI-related misconducts that are easiest to identify involve fabricating facts, citations, and case reports.
 
 ### Science
 
@@ -46,6 +48,7 @@ The definitions of scientific misconducts remain unchanged in the era of GenAI. 
 
 ### Coding
 
+- helping with extraction of structured data from unstructured text
 - creating web page layout and design
 - writing a small block of code to do a specific, well-defined task, while supported by carefully designed unit tests
 - applying well-written programming APIs to perform a specific task, especially a well-documented Python or REST API
@@ -61,9 +64,12 @@ The definitions of scientific misconducts remain unchanged in the era of GenAI. 
 
 ## Poor applications
 
+GenAI tools are deficient in logical reasoning, critical thinking, and factual communication, so you should avoid using 
+GenAI for applications that require these skills.
+
 | Applications | Weaknesses |
 |--------------|------------|
-| writing emails | insincerity, verbosity, and fabrication |
+| writing personal messages | insincerity, verbosity, and fabrication |
 | fact checking and quality control | inaccuracy |
 
 ## Non-applications
