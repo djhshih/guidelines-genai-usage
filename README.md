@@ -20,7 +20,7 @@ The definitions of scientific misconducts remain unchanged in the era of GenAI. 
 
 ### Examples
 
-GenAI-related misconducts that are easiest to identify involve fabricating facts, citations, and case reports.
+GenAI-related misconducts that are easiest to identify involve fabricating facts and citations.
 
 ### Science
 
