@@ -90,8 +90,10 @@ GenAI for applications that require these skills.
 | summarizing scientific papers | fact fabrication | just read the abstract |
 | gathering data | data fabrication | use search engines |
 | analyzing data | results fabrication | write the analysis code, possibly with some GenAI assistance |
-| generating scientific images | copyright violation | use vector-based image generation tool (e.g. Affinity Designer, Biorender) |
+| generating scientific images | [copyright violation][npg-policy] | use vector-based image generation tool (e.g. Affinity Designer, Biorender) |
 | writing or drafting papers | fact and citation fabrication | write the paper yourself first and polish with GenAI |
+
+[npg-policy]: https://www.nature.com/nature-portfolio/editorial-policies/ai#generative-ai-images
 
 ## Bottom line
 
