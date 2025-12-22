@@ -41,25 +41,25 @@ GenAI-related misconducts that are easiest to identify involve fabricating facts
 
 ### Writing
 
-- revising and polishing the language of a piece of writing
-- drafting bureaucratic letters
-- language translation
-- critiquing your work
+- Revising and polishing the language of a piece of writing
+- Drafting bureaucratic letters
+- Language translation
+- Critiquing your work
 
 ### Coding
 
-- helping with extraction of structured data from unstructured text
-- creating web page layout and design
-- writing a small block of code to do a specific, well-defined task, while supported by carefully designed unit tests
-- applying well-written programming APIs to perform a specific task, especially a well-documented Python or REST API
+- Helping with extraction of structured data from unstructured text
+- Creating web page layout and design
+- Writing a small block of code to do a specific, well-defined task, while supported by carefully designed unit tests
+- Applying well-written programming APIs to perform a specific task, especially a well-documented Python or REST API
 
 ### Best practices
 
-- remember that *you* are reponsible for *your* work
-- keep a draft of your work before polishing it with GenAI
-- fact check *everything* produced by GenAI, instead of selectively or randomly
-- use the appropriate tone for the intended purpose of the writing; scientific writing should not read like casual writing
-- avoid sounding like GenAI with the excessive use of em dashes
+- Remember that *you* are reponsible for *your* work
+- Keep a draft of your work before polishing it with GenAI
+- Fact check *everything* produced by GenAI, instead of selectively or randomly
+- Use the appropriate tone for the intended purpose of the writing; scientific writing should not read like casual writing
+- Avoid sounding like GenAI with the excessive use of em dashes
 
 
 ## Poor applications
