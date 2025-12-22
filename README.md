@@ -54,17 +54,20 @@ GenAI-related misconducts that are easiest to identify involve fabricating facts
 
 ### Coding
 
-- Helping with the extraction of structured data from unstructured text
+- Helping with the extraction of structured data from unstructured text ([example][matchminer-patient])
 - Creating web page layout and design
-- Writing a small block of code to do a specific, well-defined task, while supported by carefully designed unit tests
+- Writing a small block of code to do a specific, well-defined task, while supported by carefully designed [unit tests][unit-tests]
 - Applying well-documented programming APIs to perform a specific task, especially a Python or REST API
+
+[matchminer-patient]: https://github.com/sumedhasaxena/matchminer-patient
+[unit-tests]: https://www.dataquest.io/blog/unit-tests-python/
 
 ### Best practices
 
 - Remember that *you* are reponsible for *your* work
 - Declare any use of GenAI
 - Keep a draft of your work before polishing it with GenAI
-- Fact check *everything* produced by GenAI, comprehensively, *not* selectively or randomly
+- Fact check *everything* produced by GenAI, *comprehensively*, not selectively or randomly
 - Use the appropriate tone for the intended purpose of the writing; scientific writing should not read like casual writing
 - Avoid sounding like GenAI with the excessive use of em dashes and certain phrases
 
