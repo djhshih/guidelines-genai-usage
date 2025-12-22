@@ -88,11 +88,11 @@ GenAI misconducts that are easiest to identify involve fabricating facts and cit
 
 In the legal field, many lawyers have been fired or sanctioned due to fabricating citations
 (e.g. in
-[Colorado][https://www.businessinsider.com/young-lawyer-fired-using-chatgpt-job-work-hallucinations-errors-2023-11],
-[New York][https://www.reuters.com/legal/new-york-lawyers-sanctioned-using-fake-chatgpt-cases-legal-brief-2023-06-22/],
-[Utah][https://www.theguardian.com/us-news/2025/may/31/utah-lawyer-chatgpt-ai-court-brief],
-[Australia][https://www.theguardian.com/law/2025/sep/03/lawyer-caught-using-ai-generated-false-citations-in-court-case-penalised-in-australian-first],
-[Singapore][https://www.channelnewsasia.com/singapore/lawyer-ordered-pay-800-opposing-cite-fictitious-authority-gen-ai-5381241]
+[Colorado](https://www.businessinsider.com/young-lawyer-fired-using-chatgpt-job-work-hallucinations-errors-2023-11),
+[New York](https://www.reuters.com/legal/new-york-lawyers-sanctioned-using-fake-chatgpt-cases-legal-brief-2023-06-22/),
+[Utah](https://www.theguardian.com/us-news/2025/may/31/utah-lawyer-chatgpt-ai-court-brief),
+[Australia](https://www.theguardian.com/law/2025/sep/03/lawyer-caught-using-ai-generated-false-citations-in-court-case-penalised-in-australian-first),
+[Singapore](https://www.channelnewsasia.com/singapore/lawyer-ordered-pay-800-opposing-cite-fictitious-authority-gen-ai-5381241)
 .)
 
 In science, the repercussions of GenAI misconducts are, in fact, even higher. Science is built on a foundation of trust, and
