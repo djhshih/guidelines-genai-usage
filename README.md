@@ -57,7 +57,7 @@ The definitions of scientific misconducts remain unchanged in the era of GenAI. 
 GenAI tools are deficient in logical reasoning, critical thinking, and factual communication, so you should avoid using 
 GenAI for applications that require these skills.
 
-| Applications | Weaknesses | Alternative |
+| Applications | Weaknesses | Alternatives |
 |--------------|------------|-------------|
 | writing personal statements | insincerity, verbosity, and fabrication | write them yourself |
 | fact checking and quality control | inaccuracy | do it yourself |
@@ -66,7 +66,7 @@ GenAI for applications that require these skills.
 
 ## Non-applications
 
-| Non-Applications | Potential misconduct | Alternative |
+| Non-Applications | Potential misconducts | Alternatives |
 |------------------|----------------------|-------------|
 | summarizing scientific papers | fact fabrication | just read the abstract |
 | gathering data | data fabrication | use search engines |
