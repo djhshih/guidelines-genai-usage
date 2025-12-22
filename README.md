@@ -44,8 +44,8 @@ GenAI-related misconducts that are easiest to identify involve fabricating facts
 - Revising and polishing the language of a piece of writing
 - Drafting bureaucratic letters
 - Language translation
-- Critiquing your work
-- [Sounding empathetic][1]
+- Critiquing your work (but ask the GenAI agent to be critical)
+- [Sounding compassionate and empathetic][1]
 
 [1]: https://doi.org/10.1038/s44271-024-00182-6
 
@@ -80,8 +80,8 @@ GenAI for applications that require these skills.
 
 | Non-Applications | Potential misconduct | Alternative |
 |------------------|----------------------|-------------|
-| summarizing scientific papers | fact fabrication | read the abstract |
-| gather data | data fabrication | use search engine |
+| summarizing scientific papers | fact fabrication | just read the abstract |
+| gathering data | data fabrication | use search engine |
 | analyzing data | data fabrication | write the analysis code, possibly with some GenAI assistance |
 | generating scientific images | copyright violation | use vector-based image generation tool (e.g. Affinity Designer, Biorender) |
 | writing or drafting papers | fact and citation fabrication | write the paper yourself first and polish with GenAI |
