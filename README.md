@@ -66,7 +66,7 @@ GenAI for applications that require these skills.
 |--------------|------------|-------------|
 | writing personal statements | insincerity, verbosity, and fabrication | write them yourself |
 | fact checking and quality control | inaccuracy | do it yourself |
-| data interpretation | absurdity | do it yourself |
+| data interpretation | absurdity | think for yourself |
 | mathematical derivation | lack of rigor | SageMath or Wolfram One |
 
 ## Non-applications
