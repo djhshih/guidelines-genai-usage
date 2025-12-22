@@ -9,20 +9,16 @@ However, it is important that remember that AI-generated work often contains fab
 generate text or images that are plausible but not necessiarily accurate.
 Therefore, the use of GenAI in scientific work must be done with forethought and care.
 
-At best, creating AI slop reflects poorly on the user's professionalism and quality of work; at worst, it leads to misconduct.
+At best, creating AI slop reflects poorly on your professionalism and quality of work; at worst, it causes you to commit misconduct.
 
 ## Misconducts
 
 The definitions of scientific misconducts remain unchanged in the era of GenAI. Common misconducts include
+- **Fabrication**: making up data, results, facts, or citations
+- **Plagiarism**: claiming other people's work as your own or using other's people's work without proper *attribution*
+- **Copyright violation**: using other's people work without proper *authorization*
 
-**Fabrication**: making up data, results, facts, or citations
-
-**Plagiarism**: claiming other people's work as your own or using other's people's work without proper *attribution*
-
-**Copyright violation**: using other's people work without proper *authorization*
-
-
-## Examples of misconducts
+### Examples
 
 ### Science
 
@@ -37,6 +33,7 @@ The definitions of scientific misconducts remain unchanged in the era of GenAI. 
 - https://www.channelnewsasia.com/singapore/lawyer-ordered-pay-800-opposing-cite-fictitious-authority-gen-ai-5381241
 - https://www.businessinsider.com/young-lawyer-fired-using-chatgpt-job-work-hallucinations-errors-2023-11
 - https://www.aaml.org/wp-content/uploads/38_Comment-1.pdf
+
 
 ## Good applications
 
@@ -71,5 +68,5 @@ The definitions of scientific misconducts remain unchanged in the era of GenAI. 
 
 ## Bottom line
 
-Plagiarism, fabrication, and copyright violation are all serious academic or professional misconducts, whether you use GenAI or not.
+Plagiarism, fabrication, and copyright violation are all serious scientific and professional misconducts, whether you use GenAI or not.
 GenAI just makes it easier for you to commit these misconducts.
