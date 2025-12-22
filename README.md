@@ -51,7 +51,7 @@ GenAI-related misconducts that are easiest to identify involve fabricating facts
 
 ### Coding
 
-- Helping with extraction of structured data from unstructured text
+- Helping with the extraction of structured data from unstructured text
 - Creating web page layout and design
 - Writing a small block of code to do a specific, well-defined task, while supported by carefully designed unit tests
 - Applying well-written programming APIs to perform a specific task, especially a well-documented Python or REST API
@@ -59,11 +59,11 @@ GenAI-related misconducts that are easiest to identify involve fabricating facts
 ### Best practices
 
 - Remember that *you* are reponsible for *your* work
+- Declare any use of GenAI
 - Keep a draft of your work before polishing it with GenAI
 - Fact check *everything* produced by GenAI, instead of selectively or randomly
 - Use the appropriate tone for the intended purpose of the writing; scientific writing should not read like casual writing
 - Avoid sounding like GenAI with the excessive use of em dashes
-
 
 ## Poor applications
 
