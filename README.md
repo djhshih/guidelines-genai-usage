@@ -10,7 +10,7 @@ Rather, GenAI can *fabricate* information, and fabrication has serious ramificat
 The quality of work produced by GenAI can sometimes be impressive, especially in the context of writing 
 text that need not be grounded in facts or generating images that need not be accurate. 
 However, it is important that remember that AI-generated work often contains fabricated facts and data, 
-because GenAI models are trained to generate text or images that are *plausible* but not necessiarily accurate.
+because GenAI models are trained to generate text or images that are *plausible* but not necessarily accurate.
 Therefore, using GenAI in scientific work requires forethought and care.
 
 At best, creating AI slop reflects poorly on your professionalism and quality of work; at worst, it causes you to commit misconduct.
