@@ -26,6 +26,12 @@ The definitions of scientific misconducts remain unchanged in the era of GenAI. 
 
 ## Good applications
 
+Think of large language models (LLMs) as a professional writers who have read everything available scraped from the web.
+We don't ask professional writers to do arithmetics, solve equations, analyze logic, because that's 
+not what they were born to do.
+
+Some LLMs have even seen enough code examples on the web to be able to write code for simple tasks.
+
 ### Writing
 
 - Revising and polishing the language of a piece of writing
@@ -48,15 +54,6 @@ The definitions of scientific misconducts remain unchanged in the era of GenAI. 
 
 [matchminer-patient]: https://github.com/sumedhasaxena/matchminer-patient
 [unit-tests]: https://www.dataquest.io/blog/unit-tests-python/
-
-### Best practices
-
-- Remember that *you* are reponsible for *your* work
-- Declare any use of GenAI
-- Keep a draft of your work before polishing it with GenAI
-- Fact check *everything* produced by GenAI, *comprehensively*, not selectively or randomly
-- Use the appropriate tone for the intended purpose of the writing; scientific writing should not read like casual writing
-- Avoid sounding like GenAI with the excessive use of em dashes and certain phrases
 
 ## Poor applications
 
@@ -101,6 +98,15 @@ while using GenAI
 In science, the repercussions of GenAI misconducts are, in fact, even higher. Science is built on a foundation of trust, and
 when that trust is eroded, it is nearly impossible to re-gain it. Think about it, when you read a scientific paper,
 how do you really know that the reported results are not completely fabricated?
+
+## Best practices
+
+- Remember that *you* are reponsible for *your* work
+- Declare any use of GenAI
+- Keep a draft of your work before polishing it with GenAI
+- Fact check *everything* produced by GenAI, *comprehensively*, not selectively or randomly
+- Use the appropriate tone for the intended purpose of the writing; scientific writing should not read like casual writing
+- Avoid sounding like GenAI with the excessive use of em dashes and certain phrases
 
 ## Bottom line
 
