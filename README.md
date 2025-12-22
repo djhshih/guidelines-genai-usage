@@ -5,7 +5,9 @@ work dubbed "AI slop," without little effort from the users.
 
 When GenAI makes something up that is not true, we call it "hallucination," personalifying GenAI with the use of this word.
 In fact, GenAI does *not* hallucinate, for the simple reason that GenAI is not a person.
-Rather, GenAI can *fabricate* information, and fabrication has serious ramifications in science.
+It is not a patient with a medical condition that needs to be treated.
+Rather, GenAI *fabricates* information because of how it is developed, 
+and fabrication has serious ramifications in science.
 
 The quality of work produced by GenAI can sometimes be impressive, especially in the context of writing 
 text that need not be grounded in facts or generating images that need not be accurate. 
