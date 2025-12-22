@@ -63,7 +63,7 @@ GenAI-related misconducts that are easiest to identify involve fabricating facts
 - Keep a draft of your work before polishing it with GenAI
 - Fact check *everything* produced by GenAI, instead of selectively or randomly
 - Use the appropriate tone for the intended purpose of the writing; scientific writing should not read like casual writing
-- Avoid sounding like GenAI with the excessive use of em dashes
+- Avoid sounding like GenAI with the excessive use of em dashes and certain phrases
 
 ## Poor applications
 
