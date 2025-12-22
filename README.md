@@ -1,12 +1,16 @@
 # Guidelines on GenAI usage in science
 
-While GenAI can provide productivity gain when used appropriately, it has also amplified the creation of unprofessional work dubbed "AI slop," 
-without little effort from the users.
+While GenAI can provide productivity gain when used appropriately, it has also amplified the creation of unprofessional 
+work dubbed "AI slop," without little effort from the users.
 
-The quality of work produced by GenAI can sometimes be impressive, especially in the context of writing text that need not be grounded in facts
-or generating images that need not be accurate. 
-However, it is important that remember that AI-generated work often contains fabricated facts and data, because GenAI models are trained to 
-generate text or images that are *plausible* but not necessiarily accurate.
+When GenAI makes something up that is not true, we call it "hallucination," personalifying GenAI with the use of this word.
+In fact, GenAI does *not* hallucinate, for the simple reason that GenAI is not a person.
+Rather, GenAI can *fabricate* information, and fabrication has serious ramifications in science.
+
+The quality of work produced by GenAI can sometimes be impressive, especially in the context of writing 
+text that need not be grounded in facts or generating images that need not be accurate. 
+However, it is important that remember that AI-generated work often contains fabricated facts and data, 
+because GenAI models are trained to generate text or images that are *plausible* but not necessiarily accurate.
 Therefore, using GenAI in scientific work requires forethought and care.
 
 At best, creating AI slop reflects poorly on your professionalism and quality of work; at worst, it causes you to commit misconduct.
@@ -80,14 +84,20 @@ GenAI for applications that require these skills.
 
 ## Other examples of misconducts
 
-GenAI-related misconducts that are easiest to identify involve fabricating facts and citations.
-Many lawyers have been fired or sanctioned due to fabricating citations.
+GenAI misconducts that are easiest to identify involve fabricating facts and citations.
 
-- https://www.businessinsider.com/young-lawyer-fired-using-chatgpt-job-work-hallucinations-errors-2023-11
-- https://www.reuters.com/legal/new-york-lawyers-sanctioned-using-fake-chatgpt-cases-legal-brief-2023-06-22/
-- https://www.theguardian.com/us-news/2025/may/31/utah-lawyer-chatgpt-ai-court-brief
-- https://www.theguardian.com/law/2025/sep/03/lawyer-caught-using-ai-generated-false-citations-in-court-case-penalised-in-australian-first
-- https://www.channelnewsasia.com/singapore/lawyer-ordered-pay-800-opposing-cite-fictitious-authority-gen-ai-5381241
+In the legal field, many lawyers have been fired or sanctioned due to fabricating citations
+(e.g. in
+[Colorado][https://www.businessinsider.com/young-lawyer-fired-using-chatgpt-job-work-hallucinations-errors-2023-11],
+[New York][https://www.reuters.com/legal/new-york-lawyers-sanctioned-using-fake-chatgpt-cases-legal-brief-2023-06-22/],
+[Utah][https://www.theguardian.com/us-news/2025/may/31/utah-lawyer-chatgpt-ai-court-brief],
+[Australia][https://www.theguardian.com/law/2025/sep/03/lawyer-caught-using-ai-generated-false-citations-in-court-case-penalised-in-australian-first],
+[Singapore][https://www.channelnewsasia.com/singapore/lawyer-ordered-pay-800-opposing-cite-fictitious-authority-gen-ai-5381241]
+.)
+
+In science, the repercussions of GenAI misconducts are, in fact, even higher. Science is built on a foundation of trust, and
+when that trust is eroded, it is nearly impossible to re-gain it. Think about it, when you read a scientific paper,
+how do you really know that the reported results are not completely fabricated?
 
 ## Bottom line
 
