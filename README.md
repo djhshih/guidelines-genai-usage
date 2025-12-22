@@ -19,7 +19,8 @@ At best, creating AI slop reflects poorly on your professionalism and quality of
 
 The definitions of scientific misconducts remain unchanged in the era of GenAI. Common misconducts include
 - **Fabrication**: making up data, results, facts, or citations
-- **Plagiarism**: explicitly or implicitly claiming other people's work as your own, or using other's people's work without proper *attribution*
+- **Plagiarism**: explicitly or implicitly claiming other people's work as your own,
+  such as using other's people's work without proper *attribution*
 - **Copyright violation**: using other people's work without *permission* from the copyright owners
 
 ## Good applications
