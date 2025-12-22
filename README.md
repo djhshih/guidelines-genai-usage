@@ -73,12 +73,12 @@ GenAI-related misconducts that are easiest to identify involve fabricating facts
 GenAI tools are deficient in logical reasoning, critical thinking, and factual communication, so you should avoid using 
 GenAI for applications that require these skills.
 
-| Applications | Weaknesses |
-|--------------|------------|
-| writing personal statements | insincerity, verbosity, and fabrication |
-| fact checking and quality control | inaccuracy |
-| results interpretation | absurdity |
-| mathematical derivation | absurdity |
+| Applications | Weaknesses | Alternative |
+|--------------|------------|-------------|
+| writing personal statements | insincerity, verbosity, and fabrication | write them yourself |
+| fact checking and quality control | inaccuracy | do it yourself |
+| data interpretation | absurdity | do it yourself |
+| mathematical derivation | lack of rigor | SageMath or Wolfram One |
 
 ## Non-applications
 
