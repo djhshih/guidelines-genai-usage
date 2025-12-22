@@ -84,7 +84,7 @@ GenAI for applications that require these skills.
 | Non-Applications | Potential misconduct | Alternative |
 |------------------|----------------------|-------------|
 | summarizing scientific papers | fact fabrication | just read the abstract |
-| gathering data | data fabrication | use search engine |
+| gathering data | data fabrication | use search engines |
 | analyzing data | data fabrication | write the analysis code, possibly with some GenAI assistance |
 | generating scientific images | copyright violation | use vector-based image generation tool (e.g. Affinity Designer, Biorender) |
 | writing or drafting papers | fact and citation fabrication | write the paper yourself first and polish with GenAI |
