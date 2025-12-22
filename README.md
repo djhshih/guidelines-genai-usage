@@ -30,7 +30,8 @@ Think of large language models (LLMs) as a professional writers who have read ev
 We don't ask professional writers to do arithmetics, solve equations, analyze logic, because that's 
 not what they were born to do.
 
-Some LLMs have even seen enough code examples on the web to be able to write code for simple tasks.
+Some LLMs have even memorized enough code examples on the web to be able to write code for simple tasks.
+They were not taught what code is good, what code is bad, and what is just downright awful.
 
 ### Writing
 
