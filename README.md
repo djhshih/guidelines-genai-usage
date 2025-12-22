@@ -9,7 +9,7 @@ It is not a patient with a medical condition that needs to be treated.
 Rather, GenAI *fabricates* information because of how it is developed, 
 and fabrication has serious ramifications in science.
 
-Work produced by GenAI can often be impressive, especially for contents that need not be grounded in facts. 
+Work produced by GenAI are often impressive, especially for contents that need not be grounded in facts. 
 However, it is important that remember that AI-generated work often contains fabricated facts and data, 
 because GenAI models are trained to generate text or images that are *plausible* but not necessarily accurate.
 Therefore, using GenAI in scientific work requires forethought and care.
