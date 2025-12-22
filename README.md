@@ -50,11 +50,21 @@ The definitions of scientific misconducts remain unchanged in the era of GenAI. 
 - writing a small block of code to do a specific, well-defined task, while supported by carefully designed unit tests
 - applying well-written programming APIs to perform a specific task, especially a well-documented Python or REST API
 
+### Best practices
+
+- remember that *you* are reponsible for the *your* work
+- keep a draft of your work before polishing it with GenAI
+- fact check *everything* produced by GenAI, instead of selectively or randomly
+- use the appropriate tone for the intended purpose of the writing; scientific writing should not read like casual writing
+- avoid sounding like GenAI with the excessive use of em dashes
+
+
 ## Poor applications
 
 | Applications | Weaknesses |
 |--------------|------------|
 | writing emails | insincerity, verbosity, and fabrication |
+| fact checking and quality control | inaccuracy |
 
 ## Non-applications
 
