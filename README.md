@@ -8,7 +8,7 @@ or generating images that need not be accurate.
 However, it is important that remember that AI-generated work often contains fabricated facts and data, because GenAI are trained to 
 generate text or images that are plausible but not necessiarily accurate.
 
-At best, creating AI slop reflects poorly on the user's professionalism and quality of work at worse; at worst, it leads to scientific misconduct.
+At best, creating AI slop reflects poorly on the user's professionalism and quality of work; at worst, it leads to scientific misconduct.
 
 ## Misconducts
 
