@@ -18,25 +18,6 @@ The definitions of scientific misconducts remain unchanged in the era of GenAI. 
 - **Plagiarism**: explicitly or implicitly claiming other people's work as your own, or using other's people's work without proper *attribution*
 - **Copyright violation**: using other people's work without *permission* from the copyright owners
 
-### Examples
-
-GenAI-related misconducts that are easiest to identify involve fabricating facts and citations.
-
-### Science
-
-- https://www.nature.com/articles/d41586-025-02906-y
-- https://hongkongfp.com/2025/12/18/university-of-hong-kong-professor-steps-down-from-associate-deanship-after-ai-generated-references-scandal/
-- https://retractionwatch.com/2025/04/24/google-ai-engineer-withdraws-arxiv-preprint-tortured-phrases-genai/
-
-### Law
-
-- https://www.reuters.com/legal/new-york-lawyers-sanctioned-using-fake-chatgpt-cases-legal-brief-2023-06-22/
-- https://www.theguardian.com/law/2025/sep/03/lawyer-caught-using-ai-generated-false-citations-in-court-case-penalised-in-australian-first
-- https://www.channelnewsasia.com/singapore/lawyer-ordered-pay-800-opposing-cite-fictitious-authority-gen-ai-5381241
-- https://www.businessinsider.com/young-lawyer-fired-using-chatgpt-job-work-hallucinations-errors-2023-11
-- https://www.aaml.org/wp-content/uploads/38_Comment-1.pdf
-
-
 ## Good applications
 
 ### Writing
@@ -91,9 +72,22 @@ GenAI for applications that require these skills.
 | gathering data | data fabrication | use search engines |
 | analyzing data | results fabrication | write the analysis code, possibly with some GenAI assistance |
 | generating scientific images | [copyright violation][npg-policy] | use vector-based image generation tool (e.g. Affinity Designer, Biorender) |
-| writing or drafting papers | fact and citation fabrication | write the paper yourself first and polish with GenAI |
+| writing or drafting papers | [fact][fact-fab] and [citation][citation-fab] fabrication | write the paper yourself first and polish with GenAI |
 
 [npg-policy]: https://www.nature.com/nature-portfolio/editorial-policies/ai#generative-ai-images
+[fact-fab]: https://www.nature.com/articles/d41586-025-02906-y
+[citation-fab]: https://hongkongfp.com/2025/12/18/university-of-hong-kong-professor-steps-down-from-associate-deanship-after-ai-generated-references-scandal/
+
+## Other examples of misconducts
+
+GenAI-related misconducts that are easiest to identify involve fabricating facts and citations.
+Many lawyers have been fired or sanctioned due to fabricating citations.
+
+- https://www.businessinsider.com/young-lawyer-fired-using-chatgpt-job-work-hallucinations-errors-2023-11
+- https://www.reuters.com/legal/new-york-lawyers-sanctioned-using-fake-chatgpt-cases-legal-brief-2023-06-22/
+- https://www.theguardian.com/us-news/2025/may/31/utah-lawyer-chatgpt-ai-court-brief
+- https://www.theguardian.com/law/2025/sep/03/lawyer-caught-using-ai-generated-false-citations-in-court-case-penalised-in-australian-first
+- https://www.channelnewsasia.com/singapore/lawyer-ordered-pay-800-opposing-cite-fictitious-authority-gen-ai-5381241
 
 ## Bottom line
 
