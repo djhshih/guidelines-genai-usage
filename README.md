@@ -1,12 +1,22 @@
 # Guidelines on GenAI usage in science
 
+While GenAI can provide productivity gain when used appropriately, it has also amplified the creation of unprofessional work dubbed "AI slop," 
+without little effort from the users.
 
+The quality of work produced by GenAI can sometimes be impressive, especially in the context of writing text that need not be grounded in facts
+or generating images that need not be accurate. 
+However, it is important that remember that AI-generated work often contains fabricated facts and data, because GenAI are trained to 
+generate text or images that are plausible but not necessiarily accurate.
+
+At best, creating AI slop reflects poorly on the user's professionalism and quality of work at worse; at worst, it leads to scientific misconduct.
 
 ## Misconducts
 
-Plagiarism: claiming other people's work as your own or using other's people's work without proper **attribution**
+The definitions of scientific misconducts remain unchanged in the era of GenAI. Common misconducts include
 
 Fabrication: making up data, results, facts, or citations
+
+Plagiarism: claiming other people's work as your own or using other's people's work without proper **attribution**
 
 Copyright violation: using other's people work without proper **authorization**
 
