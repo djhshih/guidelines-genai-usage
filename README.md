@@ -78,6 +78,7 @@ GenAI for applications that require these skills.
 | writing personal statements | insincerity, verbosity, and fabrication |
 | fact checking and quality control | inaccuracy |
 | results interpretation | absurdity |
+| mathematical derivation | absurdity |
 
 ## Non-applications
 
