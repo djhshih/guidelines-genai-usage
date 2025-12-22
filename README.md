@@ -91,5 +91,5 @@ GenAI for applications that require these skills.
 
 ## Bottom line
 
-Plagiarism, fabrication, and copyright violation are all serious misconducts, whether you use GenAI or not.
+Fabrication, plagiarism, and copyright violation are all serious misconducts, whether you use GenAI or not.
 GenAI just makes it easier for you to commit these misconducts.
