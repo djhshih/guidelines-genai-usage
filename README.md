@@ -86,7 +86,8 @@ GenAI for applications that require these skills.
 
 GenAI misconducts that are easiest to identify involve fabricating facts and citations.
 
-In the legal field, many lawyers have been fired or sanctioned due to fabricating citations
+In the legal field, many lawyers have been fired or sanctioned due to fabricating citations,
+while using GenAI
 (e.g. in
 [Colorado](https://www.businessinsider.com/young-lawyer-fired-using-chatgpt-job-work-hallucinations-errors-2023-11),
 [New York](https://www.reuters.com/legal/new-york-lawyers-sanctioned-using-fake-chatgpt-cases-legal-brief-2023-06-22/),
