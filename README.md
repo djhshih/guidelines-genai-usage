@@ -76,8 +76,8 @@ GenAI for applications that require these skills.
 | Applications | Weaknesses |
 |--------------|------------|
 | writing personal statements | insincerity, verbosity, and fabrication |
-| fact checking and quality control | inaccuracy and absurdity |
-| results interpretation | inaccuracy and absurdity |
+| fact checking and quality control | inaccuracy |
+| results interpretation | absurdity |
 
 ## Non-applications
 
