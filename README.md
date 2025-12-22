@@ -54,7 +54,7 @@ GenAI-related misconducts that are easiest to identify involve fabricating facts
 - Helping with the extraction of structured data from unstructured text
 - Creating web page layout and design
 - Writing a small block of code to do a specific, well-defined task, while supported by carefully designed unit tests
-- Applying well-written programming APIs to perform a specific task, especially a well-documented Python or REST API
+- Applying well-documented programming APIs to perform a specific task, especially a Python or REST API
 
 ### Best practices
 
