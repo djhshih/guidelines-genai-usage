@@ -11,7 +11,7 @@ and fabrication has serious ramifications in science.
 
 Work produced by GenAI are often impressive, especially for contents that need not be grounded in facts. 
 However, it is important that remember that AI-generated work often contains fabricated facts and data, 
-because GenAI models are trained to generate text or images that are *plausible* but not necessarily accurate.
+because GenAI models are trained to generate contents that are *plausible* but not necessarily accurate.
 Therefore, using GenAI in scientific work requires forethought and care.
 
 At best, creating AI slop reflects poorly on your professionalism and quality of work; at worst, it causes you to commit misconduct.
