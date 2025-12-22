@@ -34,8 +34,7 @@ Some LLMs have even memorized enough code examples on the web to be able to writ
 They were not taught what code is good, what code is bad, and what is just downright awful.
 
 Diffusion image models are like mimicry artists who can produce aesthetically pleasing works of art.
-However, AI-generated images are [not permitted][npg-policy] in scientific publications due to unresolved legal 
-issues related to copyright.
+However, AI-generated images are [not permitted][npg-policy] in scientific publications due to unresolved copyright issues.
 The use of AI-generated images in presentations may be permissible.
 
 ### Writing
