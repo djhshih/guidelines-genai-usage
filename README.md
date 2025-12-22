@@ -1,7 +1,7 @@
 # Guidelines on GenAI usage in science
 
 While GenAI can provide productivity gain when used appropriately, it has also amplified the creation of unprofessional 
-work dubbed "AI slop," without little effort from the users.
+work dubbed "AI slop," with little effort from the users.
 
 When GenAI makes something up that is not true, we call it "hallucination," personalifying GenAI with the use of this word.
 In fact, GenAI does *not* hallucinate, for the simple reason that GenAI is not a person.
