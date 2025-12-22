@@ -43,11 +43,14 @@ GenAI-related misconducts that are easiest to identify involve fabricating facts
 
 - Revising and polishing the language of a piece of writing
 - Drafting bureaucratic letters
-- Language translation
+- Language translation (e.g. to [English][sci-trans-en], [Simplified Chinese][sci-trans-zh-cn], or [Traditional Chinese][sci-trans-zh-hk])
 - Critiquing your work (but ask the GenAI agent to be critical)
-- [Sounding compassionate and empathetic][1]
+- [Sounding compassionate and empathetic][compassionate-ai]
 
-[1]: https://doi.org/10.1038/s44271-024-00182-6
+[sci-trans-en]: https://poe.com/sci-trans-en
+[sci-trans-zh-cn]: https://poe.com/sci-trans-zh-cn
+[sci-trans-zh-hk]: https://poe.com/sci-trans-zh-hk
+[compassionate-ai]: https://doi.org/10.1038/s44271-024-00182-6
 
 ### Coding
 
@@ -72,7 +75,7 @@ GenAI for applications that require these skills.
 
 | Applications | Weaknesses |
 |--------------|------------|
-| writing personal messages | insincerity, verbosity, and fabrication |
+| writing personal statements | insincerity, verbosity, and fabrication |
 | fact checking and quality control | inaccuracy and absurdity |
 | results interpretation | inaccuracy and absurdity |
 
