@@ -82,12 +82,13 @@ GenAI for applications that require these skills.
 | summarizing scientific papers | fact fabrication | just read the abstract |
 | gathering data | data fabrication | use search engines |
 | analyzing data | results fabrication | write the analysis code, possibly with some GenAI assistance |
-| generating scientific images | [copyright violation][npg-policy] | use vector-based image generation tool (e.g. Affinity Designer, Biorender) |
+| generating scientific images | [copyright violation][genai-img] | use vector-based image generation tool (e.g. Affinity Designer, Biorender) |
 | drafting or writing papers | [fact][fact-fab] and [citation][citation-fab] fabrication | draft and write the paper yourself, and then polish with GenAI |
 
 [npg-policy]: https://www.nature.com/nature-portfolio/editorial-policies/ai#generative-ai-images
 [fact-fab]: https://www.nature.com/articles/d41586-025-02906-y
 [citation-fab]: https://hongkongfp.com/2025/12/18/university-of-hong-kong-professor-steps-down-from-associate-deanship-after-ai-generated-references-scandal/
+[genai-img]: https://news.bloomberglaw.com/us-law-week/digital-image-creation-using-ai-risks-copyright-infringement
 
 ## Other examples of misconducts
 
