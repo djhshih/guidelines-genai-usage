@@ -22,7 +22,7 @@ The definitions of scientific misconducts remain unchanged in the era of GenAI. 
 - **Fabrication**: making up data, results, facts, or citations
 - **Plagiarism**: explicitly or implicitly claiming other people's work as your own,
   such as using their work without proper *attribution*
-- **Copyright violation**: using other people's work without *permission* from the copyright owners
+- **Copyright violation**: using other people's work without proper *permission* from the copyright owners
 
 ## Good applications
 
