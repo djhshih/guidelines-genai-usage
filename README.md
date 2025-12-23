@@ -35,7 +35,9 @@ They were not taught what code is good, what code is bad, and what is just downr
 
 Diffusion image models are like mimicry artists who can produce aesthetically pleasing works of art.
 However, AI-generated images are [not permitted][npg-policy] in scientific publications due to unresolved copyright issues.
-The use of AI-generated images in presentations may be permissible.
+The use of AI-generated images in presentations may constitute [fair use][fair-use].
+
+[fair-use]: https://en.wikipedia.org/wiki/Fair_use
 
 ### Writing
 
